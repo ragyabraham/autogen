@@ -19,6 +19,7 @@ install_requires = [
     "termcolor",
     "flaml",
     "python-dotenv",
+    "git+https://github.com/miguelgrinberg/python-socketio.git@main#egg=python-socketio"
 ]
 
 
